@@ -28,7 +28,8 @@ Dans cette méthode :
 ### Intégration de Bootstrap avec Twig
 
 **Fichier :** `config/packages/twig.yaml`
-Le thème Bootstrap a été intégré afin d’uniformiser le style des formulaires :
+
+Le thème Bootstrap a été intégré afin d’uniformiser le style des formulaires 
 
 
 ### Traitement et validation du formulaire dans le contrôleur
@@ -41,6 +42,7 @@ Dans le contrôleur :
 
 ### Affichage du formulaire avec Twig
 **Fichier :** `templates/cart/index.html.twig`
+
 Le formulaire est affiché champ par champ à l’aide de form_row()
 
 ![Page produit](screenshots/Pasted%20image.png)
